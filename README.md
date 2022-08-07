@@ -24,4 +24,4 @@ The [netlify-plugin-html-validate](https://github.com/oliverroick/netlify-plugin
 
 This assignment was copied from [MDN Learning: Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
 
-[MDN's Original Source Code](https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/debugging-html/debug-example.html) licensed with CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
+[MDN's Original Source Code](https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/debugging-html/debug-example.html) licensed with CC0 1.0 Universal (CC0 1.0) Public Domain Dedication [CC0-1.0](https://github.com/mdn/learning-area/blob/main/LICENSE).
