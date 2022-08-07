@@ -22,6 +22,6 @@ The [netlify-plugin-html-validate](https://github.com/oliverroick/netlify-plugin
 
 ## Sources
 
-This code was copied from [MDN Learning](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
+This assignment was copied from [MDN Learning](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
 
 [MDN's Original Source Code](https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/debugging-html/debug-example.html) with CC0 license.
